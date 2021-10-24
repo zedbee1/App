@@ -12,6 +12,13 @@ public class GFG {
 		ll.add("Geeks");
 		ll.add("Geeks");
 		ll.add(1, "For");
+		
+		
+		
+	        ll.add("GEEKS");
+		ll.add("ONES");
+		ll.add(1, "FOR");
+
 	
 		System.out.println(
 			"Initial LinkedList " + ll);
