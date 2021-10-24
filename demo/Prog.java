@@ -15,7 +15,7 @@ public class GFG {
 		
 		
 		
-	        ll.add("GEEKS");
+	    ll.add("GEEKS");
 		ll.add("ONES");
 		ll.add(1, "FOR");
 
@@ -32,5 +32,9 @@ public class GFG {
 	
 		System.out.println(
 			"After the Object Removal " + ll);
+		ll.add("GEEKS");
+		ll.add("ONES");
+		ll.add(1, "FOR");
+
 	}
 }
